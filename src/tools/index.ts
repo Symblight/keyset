@@ -1,0 +1,6 @@
+export { get } from './get'
+export { remove } from './remove'
+export { set } from './set'
+export { setBy } from './setBy'
+export { has } from './is'
+export { is } from './has'
